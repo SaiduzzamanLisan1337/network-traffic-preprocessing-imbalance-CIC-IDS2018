@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+outputs/*
+!outputs/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+*.pkl
+*.joblib
+*.parquet
